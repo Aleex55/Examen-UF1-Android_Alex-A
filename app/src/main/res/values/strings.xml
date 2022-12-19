@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenUF1</string>
+    <string name="entrar">Entrar</string>
+    <string name="pon_admin">Pon admin (en minusculas)</string>
+</resources>
